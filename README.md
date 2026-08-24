@@ -8,7 +8,7 @@ I'm a software development student who enjoys building projects, learning new te
 
 ## 👨‍💻 About Me
 
-```js
+````js
 const alex = {
     location: "Sweden 🇸🇪",
     education: "TE4 – Gymnasieingenjör",
