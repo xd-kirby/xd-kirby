@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**xd-kirby/xd-kirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TE4 / Software Development student • Sweden 🇸🇪
+Interested in software development, backend systems & cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Short description of you and what you're currently doing.
+
+const alex = {
+    location: "Sweden 🇸🇪",
+    education: "TE4 – Gymnasieingenjör",
+    focus: ["Software Development", "Backend", "Cybersecurity"],
+    currentlyLearning: ["C#", "JavaScript", "Node.js", "SQL"],
+    tools: ["Git", "GitHub", "VS Code", "macOS"]
+};
+
+---
+
+## 🛠️ Tech
+
+### Comfortable with
+
+[icons]
+
+### Currently learning
+
+[icons]
+
+### Development concepts
+
+`REST APIs` • `Git` • `SQL` • `OOP` • `Agile` • ...
+
+---
+
+## 🚀 What I'm Working Towards
+
+...
+
+---
+
+## 📌 Projects
+
+### 🎬 Movie List API
+...
+
+### 🌐 Express Intro
+...
+
+### 🔬 Mini Project Lab
+...
+
+---
+
+## 📊 GitHub
+
+[stats]
+
+---
+
+### Let's connect
+
+...
