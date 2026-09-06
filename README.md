@@ -59,30 +59,10 @@ A Node.js and Express API for working with movie data.
 
 ---
 
-### 🌐 Express Intro
-
-A project focused on learning the fundamentals of Express and backend development.
-
-**JavaScript · Node.js · Express**
-
-[View Project →](https://github.com/xd-kirby/expressIntro)
-
----
-
-### 🧪 Mini Project Lab
-
-A collection of smaller projects and experiments for practicing programming concepts.
-
-**JavaScript**
-
-[View Project →](https://github.com/xd-kirby/Mini-project-lab)
-
----
-
 ## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,nodejs,js,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,sqlite" />
 </p>
 
 **Node.js** · **SQL** · **REST APIs** · **Backend Development**
