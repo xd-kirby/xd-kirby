@@ -14,7 +14,7 @@ I'm a software development student interested in **backend development, software
 | 🎓 **Education** | TE4 – Gymnasieingenjör |
 | 💻 **Focus** | Software Development |
 | 🔐 **Interests** | Cybersecurity · Backend · Networking |
-| 📚 **Learning** | C# · Node.js · SQL · REST APIs |
+| 📚 **Learning** | Node.js · SQL · REST APIs |
 | 🛠️ **Tools** | Git · GitHub · VS Code |
 
 ---
@@ -85,7 +85,7 @@ A collection of smaller projects and experiments for practicing programming conc
   <img src="https://skillicons.dev/icons?i=cs,nodejs,js,sqlite" />
 </p>
 
-**C#** · **Node.js** · **SQL** · **REST APIs** · **Backend Development**
+**Node.js** · **SQL** · **REST APIs** · **Backend Development**
 
 ---
 
