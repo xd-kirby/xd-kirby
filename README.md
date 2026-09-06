@@ -81,6 +81,9 @@ A Node.js and Express API for working with movie data.
 ## Connect
 
 <p>
+  <a href="linkedin.com/in/alexandru-huica-63a8a5427/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandru%20Huica-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>  
   <a href="https://github.com/xd-kirby">
     <img src="https://img.shields.io/badge/GitHub-xd--kirby-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
