@@ -72,8 +72,8 @@ A Node.js and Express API for working with movie data.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xd-kirby&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-kirby&layout=compact&hide_border=true&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xd-kirby&show_icons=true&hide_border=true&theme=transparent" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-kirby&layout=compact&hide_border=true&theme=transparent" height="170">
 </p>
 
 ---
